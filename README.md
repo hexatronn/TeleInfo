@@ -1,1 +1,21 @@
-# TeleInfo
+# TeleInfo Tool
+
+This tool fetches information about a Telegram group such as the member count, creation date, etc., and displays it in an HTML file.
+
+## Installation
+
+1. Clone the repository:
+git clone https://github.com/yourusername/telegram-group-info.git
+cd telegram-group-info
+
+2. Run the installation script:
+bash scripts/install.sh
+
+3. Update the `config.py` file with your Telegram API ID and hash.
+
+## Usage
+
+Run the project with:
+bash scripts/run.sh
+
+Enter the group link or username when prompted, and the information will be saved to `output.html`.
