@@ -5,8 +5,8 @@ This tool fetches information about a Telegram group such as the member count, c
 ## Installation
 
 1. Clone the repository:
-git clone https://github.com/yourusername/telegram-group-info.git
-cd telegram-group-info
+git clone https://github.com/hexatronn/TeleInfo
+cd TeleInfo
 
 2. Run the installation script:
 bash scripts/install.sh
