@@ -11,11 +11,11 @@ cd telegram-group-info
 2. Run the installation script:
 bash scripts/install.sh
 
-3. Update the `config.py` file with your Telegram API ID and hash.
+3. Update the `config.py` file manually with your Telegram API ID and hash !!!
 
 ## Usage
 
 Run the project with:
-bash scripts/run.sh
+bash scripts/run.sh or go to src file and type python3 main.py
 
 Enter the group link or username when prompted, and the information will be saved to `output.html`.
